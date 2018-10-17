@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/OBNI"]
+	path = Assets/Plugins/OBNI
+	url = http://github.com/alexbourgeois/obni
